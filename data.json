@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "message": "Welcome to the Flask API!",
+  "data": {
+    "id": 1,
+    "name": "Tutedude",
+    "email": "tutedude@example.com",
+    "role": "Developer",
+    "skills": ["Python", "Flask", "Git", "REST API"]
+  }
+}
+
+
